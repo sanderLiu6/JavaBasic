@@ -12,6 +12,7 @@ public class Main {
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("这已经是第" + i  + "次打印我了");
             System.out.println("第二次使用Git提交code测试");
+            System.out.println("第三次使用Git提交code测试");
         }
     }
 }

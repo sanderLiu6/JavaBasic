@@ -11,6 +11,7 @@ public class Main {
             //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("这已经是第" + i  + "次打印我了");
+            System.out.println("第二次使用Git提交code测试");
         }
     }
 }

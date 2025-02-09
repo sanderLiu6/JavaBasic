@@ -14,5 +14,6 @@ public class Input {
         System.out.println("请输入您的薪水：");
         double salary = scanner.nextDouble();
         System.out.println("姓名：" + name + ",年龄：" + age + ",薪水：" + salary + ".");
+
     }
 }
